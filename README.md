@@ -2,9 +2,9 @@
 
 此工程仅仅作为不同环境的编译版本记录
 
-- sql-migrate linux 版本
-- sql-migrate-m1 mac-m1 版本
-- sql-migrate.exe windows 版本
+- sql-migrate-linux: linux 版本
+- sql-migrate-m1: mac-m1 版本
+- sql-migrate-windows.exe: windows 版本
 
 ## 修改配置文件:
 
